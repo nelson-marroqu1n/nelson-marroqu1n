@@ -8,6 +8,11 @@ los siguientes cursos y certificaciones para seguir creciendo como desarrollador
 - Duración: 19 horas en total
 - Fecha de finalización: 9 de Junio de 2026
 
+### Curso de APIs con .NET
+- Plataforma: Platzi
+- Duración: 9 horas en total
+- Fecha de finalización: 22 de Septiembre de 2026
+- 
 ### SQL - Curso completo de Bases de Datos - de 0 a Avanzado
 - Plataforma: Udemy
 - Duración: 21 horas en total
