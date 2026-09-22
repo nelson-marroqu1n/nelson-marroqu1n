@@ -1,11 +1,3 @@
-👋 Hola, soy Nelson Marroquín
-
-Desarrollador Junior con formación en Ingeniería en Desarrollo de Software, 
-enfocado en Desarrollo Web con PHP, Laravel, JavaScript, Node.js, Express y Vue.js.
-
-Actualmente en prácticas profesionales en la Alcaldía La Libertad Sur, 
-Departamento de Innovación y Tecnología.
-
 ## 📜 Certificaciones
 
 Además de mi formación universitaria, he complementado mis conocimientos con 
