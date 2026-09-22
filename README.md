@@ -1,4 +1,4 @@
-## 📜 Certificaciones
+## Certificaciones
 
 Además de mi formación universitaria, he complementado mis conocimientos con 
 los siguientes cursos y certificaciones para seguir creciendo como desarrollador:
