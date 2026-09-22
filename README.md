@@ -3,22 +3,22 @@
 Además de mi formación universitaria, he complementado mis conocimientos con 
 los siguientes cursos y certificaciones para seguir creciendo como desarrollador:
 
-### Curso de Backend con ExpressJS
-- Plataforma: Platzi
-- Duración: 19 horas en total
-- Fecha de finalización: 9 de Junio de 2026
-
-![Certificado ExpressJS](certificado-expressjs.jpg)
-
----
-
-
 ### Curso de APIs con .NET
 - Plataforma: Platzi
 - Duración: 9 horas en total
 - Fecha de finalización: 22 de Septiembre de 2026
   
 ![Certificado APIs con .NET](certificado-apis-dotnet.jpg)
+
+---
+
+
+### Curso de Backend con ExpressJS
+- Plataforma: Platzi
+- Duración: 19 horas en total
+- Fecha de finalización: 9 de Junio de 2026
+
+![Certificado ExpressJS](certificado-expressjs.jpg)
 
 ---
 
