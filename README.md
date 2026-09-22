@@ -10,6 +10,7 @@ los siguientes cursos y certificaciones para seguir creciendo como desarrollador
 
 ![Certificado ExpressJS](certificado-expressjs.jpg)
 
+---
 
 ### Curso de APIs con .NET
 - Plataforma: Platzi
