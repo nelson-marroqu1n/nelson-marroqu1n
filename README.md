@@ -12,12 +12,15 @@ los siguientes cursos y certificaciones para seguir creciendo como desarrollador
 
 ---
 
+
 ### Curso de APIs con .NET
 - Plataforma: Platzi
 - Duración: 9 horas en total
 - Fecha de finalización: 22 de Septiembre de 2026
   
 ![Certificado APIs con .NET](certificado-apis-dotnet.jpg)
+
+---
 
 
 ### SQL - Curso completo de Bases de Datos - de 0 a Avanzado
@@ -27,6 +30,8 @@ los siguientes cursos y certificaciones para seguir creciendo como desarrollador
 
 ![Certificado SQL](certificado-sql.jpg)
 
+---
+
 
 ### Diseño de Bases de Datos Relacionales
 - Plataforma: Udemy
@@ -35,6 +40,8 @@ los siguientes cursos y certificaciones para seguir creciendo como desarrollador
 
 ![Certificado Bases de Datos Relacionales](certificado-bases-datos-relacionales.jpg)
 
+---
+
 
 ### Git y GitHub Completo Desde Cero ACTUALIZADO
 - Plataforma: Udemy
@@ -42,6 +49,8 @@ los siguientes cursos y certificaciones para seguir creciendo como desarrollador
 - Fecha de finalización: 15 de Octubre de 2023
 
 ![Certificado Git y GitHub](certificado-git-github.jpg)
+
+---
 
 
 ## 🛠️ Tecnologías
