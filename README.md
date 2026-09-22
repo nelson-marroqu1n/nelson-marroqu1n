@@ -8,6 +8,8 @@ los siguientes cursos y certificaciones para seguir creciendo como desarrollador
 - Duración: 19 horas en total
 - Fecha de finalización: 9 de Junio de 2026
 
+![Certificado ExpressJS](certificado-expressjs.jpg)
+
 ### Curso de APIs con .NET
 - Plataforma: Platzi
 - Duración: 9 horas en total
